@@ -1,2 +1,2 @@
 # Study
-#### Study would be put here
+#### Study notes would be put here
